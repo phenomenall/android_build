@@ -35,6 +35,11 @@ PRODUCT_PACKAGES += \
     DownloadProviderUi \
     DuiBlackThemeOverlay \
     DuiDarkThemeOverlay \
+    SystemUiBlackThemeOverlay \
+    SystemUiDarkThemeOverlay \
+    SystemUiExtendedThemeOverlay \
+    Email \
+    ExactCalculator \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
@@ -53,6 +58,7 @@ PRODUCT_PACKAGES += \
     Settings \
     SettingsBlackThemeOverlay \
     SettingsDarkThemeOverlay \
+    SettingsExtendedThemeOverlay \
     SharedStorageBackup \
     StorageManager \
     SubstratumService \
